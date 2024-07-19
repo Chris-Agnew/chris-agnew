@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chris Agnew</h1>
 <h3 align="center">Full-Stack TypeScript Developer</h3>
 
-- 🔭 I’m currently working on [Advanced RV website](https://advanced-rv.com)
+- 🔭 I’m currently working on [Advanced RV website](https://advanced-rv.com) , E-Commerce/Shopify Development at Central Garden and Pets
 
 - 🌱 I’m currently learning Docker and Kubernetes
 
 - 👨‍💻 All of my projects are available at [https://chrisagnew.codes](https://chrisagnew.codes)
 
-- 💬 Ask me about **Next.js and Tailwind CSS**
+- 💬 Ask me about **TypeScript, Next.js and Tailwind CSS**
 
 - 📫 How to reach me **chris@chris-agnew.com**
 
