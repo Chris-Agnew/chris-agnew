@@ -5,11 +5,14 @@
 
 - 🌱 I’m currently learning Docker and Kubernetes
 
-- 👨‍💻 All of my projects are available at [https://chrisagnew.codes](https://chrisagnew.codes)
+-  All of my projects are available at [https://chrisagnew.codes](https://chrisagnew.codes)
 
 - 💬 Ask me about **TypeScript, Next.js and Tailwind CSS**
 
 - 📫 How to reach me **chris@chris-agnew.com**
+
+- 📝 Check out my resume at [https://chrisagnew.codes/resume.pdf](https://chrisagnew.codes/resume.pdf)
+
 
 
 ## 🌐 Socials
