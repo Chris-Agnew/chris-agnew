@@ -7,12 +7,9 @@
 
 -  All of my projects are available at [https://chrisagnew.codes](https://chrisagnew.codes)
 
-- 💬 Ask me about **TypeScript, Next.js and Tailwind CSS**
+- 💬 Ask me about **TypeScript, Next.js, Tailwind CSS, and Node.js**
 
 - 📫 How to reach me **chris@chris-agnew.com**
-
-- 📝 Check out my resume at [https://chrisagnew.codes/resume.pdf](https://chrisagnew.codes/resume.pdf)
-
 
 
 ## 🌐 Socials
