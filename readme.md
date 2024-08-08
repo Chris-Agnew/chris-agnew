@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris Agnew</h1>
 <h3 align="center">Full-Stack TypeScript Developer</h3>
 
-- 🔭 I’m currently working on [Advanced RV website](https://advanced-rv.com) , E-Commerce/Shopify Development at Central Garden and Pets
+- 🔭 I’m currently working on [Advanced RV website](https://advanced-rv.com), VAPOR REV Inc. Version 2.0, and misc other projects
 
 - 🌱 I’m currently learning Docker and Kubernetes
 
