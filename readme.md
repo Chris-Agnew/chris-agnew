@@ -9,10 +9,7 @@
 
 - 💬 Ask me about **TypeScript, Next.js, Tailwind CSS, and Node.js**
 
-- 📫 How to reach me **chris@chris-agnew.com**
-
--  Hire me on  &nbsp; &nbsp; <a href="https://www.upwork.com/freelancers/chrisagnew">![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)</a>
-
+- 📫 How to reach me **chris@chrisagnew.codes**
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chris-agnew12) 
