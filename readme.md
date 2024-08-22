@@ -7,7 +7,7 @@
 
 - 💻 Portfolio Site at [https://chrisagnew.codes](https://chrisagnew.codes)
 
-- 💬 Ask me about **TypeScript, Next.js, Tailwind CSS, and Node.js**
+- 💬 Ask me about **TypeScript, Next.js, Tailwind CSS, Performance Optimization, Aria, and Node.js**
 
 - 📫 How to reach me **chris@chrisagnew.codes**
 
