@@ -6,6 +6,8 @@ I am passionate about web accessibility, ensuring that my applications are usabl
 
 - 💻 Portfolio Site at [https://chrisagnew.codes](https://chrisagnew.codes)
 
+-  📜 Check out my resume [here](https://chrisagnew.codes/chris-agnew-full-stack-react-resume.pdf)
+
 - 💬 Ask me about **TypeScript, Next.js, Tailwind CSS, Performance Optimization, Accessibility, and Node.js**
 
 - 📫 Have a great project in mind? chris@chrisagnew.codes
