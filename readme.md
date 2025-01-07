@@ -10,7 +10,7 @@ I am passionate about web accessibility, ensuring that my applications are usabl
 
 - 💬 Ask me about **TypeScript, Next.js, Tailwind CSS, Performance Optimization, Accessibility, and Node.js**
 
-- 📫 Have a great project in mind? chris@chrisagnew.codes
+- 📫 Have a great project in mind? chris@chrisagnew.codes (not currently taking on new projects)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chris-agnew12) 
