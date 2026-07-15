@@ -2,15 +2,7 @@
 <p>As a highly skilled Full-Stack Developer, I specialize in creating dynamic and accessible web applications using modern technologies. With expertise in React and TypeScript, I build robust front-end interfaces that are intuitive and performant. My proficiency in Node.js ensures seamless backend integration, while Tailwind CSS enables me to craft visually appealing and responsive designs.
 I am passionate about web accessibility, ensuring that my applications are usable by everyone, regardless of their abilities. By leveraging Next.js, I optimize performance and deliver fast, scalable solutions that enhance user experience. Whether developing new features or improving existing ones, I am committed to delivering high-quality, high-performing, maintainable code that drives business success. </p>
 
-- 🔭 I’m currently working on [Advanced RV website](https://advanced-rv.com), [VAPOR REV Inc](https://vaporrevshop.com), and misc other projects
-
-- 💻 Portfolio Site at [https://chrisagnew.codes](https://chrisagnew.codes)
-
--  📜 Check out my resume [here](https://chrisagnew.codes/chris-agnew-full-stack-react-resume.pdf)
-
-- 💬 Ask me about **TypeScript, Next.js, Tailwind CSS, Performance Optimization, Accessibility, and Node.js**
-
-- 📫 Have a great project in mind? chris@chrisagnew.codes (not currently taking on new projects)
+- 💬 Ask me about TypeScript, Next.js, Tailwind CSS, Performance Optimization, or Accessibility.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chris-agnew12) 
